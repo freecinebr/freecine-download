@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Baixe o Freecine APK 2024 e aproveite filmes, séries, animes e muito mais gratuitamente.">
+    <meta name="keywords" content="Freecine download APK, Filmes grátis, Séries, Entretenimento, Animes">
+    <meta name="author" content="Freecine Team">
+    <title>Freecine Download APK 2024 - Filmes e Séries Grátis</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Arial', sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background: linear-gradient(135deg, #FF5722, #E91E63);
+            color: #fff;
+            padding: 1.5rem 1rem;
+            text-align: center;
+        }
+        header h1 {
+            font-size: 2.5rem;
+            margin: 0;
+        }
+        header p {
+            font-size: 1.2rem;
+        }
+        .container {
+            max-width: 1200px;
+            margin: auto;
+            padding: 1rem;
+        }
+        .download-section {
+            background: #fff;
+            border-radius: 8px;
+            padding: 2rem;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin: 2rem 0;
+        }
+        .download-section h2 {
+            color: #E91E63;
+            font-size: 2rem;
+            margin-bottom: 1rem;
+        }
+        .info-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+        }
+        .info-box {
+            background: #f1f1f1;
+            border-radius: 8px;
+            padding: 1rem;
+            text-align: center;
+        }
+        .info-box h3 {
+            color: #FF5722;
+            margin-bottom: 0.5rem;
+        }
+        .download-btn {
+            display: block;
+            background: #FF5722;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+            margin-top: 2rem;
+            border-radius: 8px;
+            font-size: 1.2rem;
+            text-decoration: none;
+            transition: background 0.3s;
+        }
+        .download-btn:hover {
+            background: #E91E63;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background: #333;
+            color: #fff;
+            margin-top: 2rem;
+        }
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 2rem;
+            }
+            .info-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Freecine Download APK 2024</h1>
+        <p>Assista a filmes, séries e muito mais gratuitamente!</p>
+    </header>
+
+    <div class="container">
+        <section class="download-section">
+            <h2>Detalhes do Aplicativo</h2>
+            <div class="info-grid">
+                <div class="info-box">
+                    <h3>Nome</h3>
+                    <p>Freecine APK 2024</p>
+                </div>
+                <div class="info-box">
+                    <h3>Versão</h3>
+                    <p>3.00</p>
+                </div>
+                <div class="info-box">
+                    <h3>Tamanho</h3>
+                    <p>35.34 MB</p>
+                </div>
+                <div class="info-box">
+                    <h3>Requisitos</h3>
+                    <p>Android 4.1+</p>
+                </div>
+                <div class="info-box">
+                    <h3>Downloads</h3>
+                    <p>3 Milhões +</p>
+                </div>
+                <div class="info-box">
+                    <h3>Licença</h3>
+                    <p>Gratuito</p>
+                </div>
+            </div>
+            <a href="https://freecinebr.com" class="download-btn">Baixar Agora</a>
+        </section>
+
+        <section class="features-section">
+            <h2>Recursos do Freecine</h2>
+            <ul>
+                <li>Interface simples e intuitiva</li>
+                <li>Recomendações personalizadas</li>
+                <li>Streaming de alta qualidade</li>
+                <li>Visualização offline</li>
+                <li>Conteúdo atualizado diariamente</li>
+            </ul>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Freecine. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
